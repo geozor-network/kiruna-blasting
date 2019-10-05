@@ -1,0 +1,62 @@
+Androsensor Sensor Snapshot
+2019/09/17 00:59:47
+
+LOCATION: 
+	Latitude:  67,851791 
+	Longitude:  20,502264 
+	Altitude:  1172,67 ft 
+	orientation (GPS):  233,20° 
+	Altitude (google): unavailable 
+	Accuracy:  10,37 ft 
+	Provider: gps 
+	Speed:  68,47 Kmh 
+	Satellites in range: 28 (24)
+
+ACCELEROMETER: ( 0.2mA )
+	x:+1,0049 m/s²
+	y:+1,4993 m/s²
+	z:+9,8813 m/s²
+	Σ:+10,0448 m/s²
+
+GRAVITY: ( 1.1mA )
+	x:+1,8374 m/s²
+	y:+1,0019 m/s²
+	z:+9,5807 m/s²
+	Σ:+9,8066 m/s²
+
+LINEAR ACCELERATION: ( 1.1mA )
+	x:-0,9023 m/s²
+	y:+0,6196 m/s²
+	z:+0,2216 m/s²
+	Σ:+1,1168 m/s²
+
+GYROSCOPE: ( 0.9mA ) 
+	X:+0,1437 rad/s
+	Y:-0,2572 rad/s
+	Z:+0,0116 rad/s
+
+LIGHT: ( 0.1mA )
+	 0,0000 lux
+
+MAGNETIC FIELD: ( 1.1mA )
+	X:-124,50 μT
+	Y:+110,01 μT
+	Z:-5,47 μT
+	Σ:+166,23 μT
+
+ORIENTATION: ( 1.1mA )
+	Z:+46,88° 
+	X:-5,78° 
+	Y:-10,75°
+
+BATTERY STATUS: 
+	Temperature: 18.0 °C 
+	Level: 90.0% 
+	Voltage: 4.216 Volt 
+	Status: Discharging 
+	Health: Good 
+	Technology: Li-poly
+
+DATE - TIME: 
+	2019-09-17 00:59:47:613
+
