@@ -16,10 +16,10 @@ As you can see from the plotted data above, explosion generated shaking is clear
 
 For the data recording the AndroSensor application was used. The sampling period was configured to 20 ms.
 
-The most challenging issue in the experiment is precise time synchronization between the smart-phones even in case of GPS fix (Android is unable to automatically correct ) 
+The most challenging issue in the experiment is precise time synchronization between the smart-phones even in case of GPS fix (Android is unable to automatically correct system time). Situation is documented in following photo. 
 
 
-![Time inconsistenci of the phones](/data/16092019/Phone_time_unsync.JPG "Different time at each phone used")
+![Time inconsistency of the phones](/data/16092019/Phone_time_unsync.JPG "Different time at each phone used")
 
 
-Full recording is out of github file size limit. Therefore it is available upon request. 
+Full sound recording is out of github file size limit. Therefore it is available upon request. 
