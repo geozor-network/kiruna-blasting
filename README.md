@@ -22,4 +22,4 @@ The most challenging issue in the experiment is precise time synchronization bet
 ![Time inconsistency of the phones](/data/16092019/Phone_time_unsync.JPG "Different time at each phone used")
 
 
-Full sound recording has around 1GB of data, which is out of github file size limit. Therefore it is available upon request from [kaklik](https://github.com/kaklik). 
+Full sound recording has around 1GB of data, which is out of github file size limit. Therefore are available upon request from [kaklik](https://github.com/kaklik). 
