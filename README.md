@@ -1,8 +1,9 @@
-# kiruna-blasting
+# Kiruna iron ore mine blasting location experiment
+
 Seismography experiment - underground iron mine blasting detection by smartphones. 
 
 Every night in Kiruna iron ore mine the tons of explosives are blasted betwen 1:15 and 1:40 local time. The most usual time for blasting is 1:30. 
-If you stand near to Kiruna LKAB mine in that time you definitely feel the artificial earthquake generadet by explosion around one kilometer bellow surface. 
+If you stand near to [Kiruna LKAB mine](https://en.wikipedia.org/wiki/Kiruna_mine) in that time you definitely feel the artificial earthquake generadet by explosion around one kilometer bellow surface. 
 
 You can hear the sound recording of the blasting by playing one of [these files](https://github.com/geozor-network/kiruna-blasting/tree/master/data/16092019/kakl). (But you definitely need a subwoofer to hear something) 
 
